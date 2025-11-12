@@ -13,5 +13,7 @@
 没啥用的展示:  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Small-tailqwq)](https://github.com/anuraghazra/github-readme-stats)  
 
+# 😋
+AI 真好用
 
-![](https://b2.hayasa.org/IMG/ST.png)
+<!-- ![](https://b2.hayasa.org/IMG/ST.png) -->
